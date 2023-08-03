@@ -1,5 +1,5 @@
 # MiniRT - Raytracing Image Generator
-[This project was a group project. Co-creator:][[(https://github.com/dorianjagusch)]
+This project was a group project. Co-creator:[https://github.com/dorianjagusch]
 ## Table of Contents
 
 - [Description](#description)
