@@ -25,7 +25,9 @@ The implementation of MiniRT involved a variety of technical skills:
 - **Parsing:** We developed a parser to read and interpret the scene description file in the ".rt" format.
 - **Mathematics:** Mathematical calculations were essential for handling rotations, translations, and geometric properties of objects.
 - **Phong Reflection Model:** As a bonus feature, we implemented the Phong reflection model, including specular reflection.
+  
  <img src="imgs/bump_map.png" width="385px" align="center"> <img src="imgs/colour_disruption.png" width="385px" align="center">
+
 ## Usage
 
 To use MiniRT, simply run the compiled executable with a scene description file as its argument:
